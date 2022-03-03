@@ -1,0 +1,5 @@
+datasets
+fasttext
+gradio
+ipywidgets
+pandas
